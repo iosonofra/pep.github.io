@@ -1,4 +1,5 @@
-#EXTM3U
-#EXTINF:-1,JLPGA
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MF1UHD.png" group-title="Movistar+" " ch-number="442",DAZN F1 4K
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-024/stream.mpd?ck=eyI4MmY4ZTJhMTdkYWM0NGMwYTE4ZjY2MDQ3OTM0OWM1OSI6IjFiMTQ0ZjczZTZmZWZlOTFjZDA1Zjg1MGUyYjU4OWQwIn0%3D
+#KODIPROP:inputstream.adaptive.license_key=1b76612737ad4d678376f6e46c8104a3:
+https://uhd1formula-dash-movistarplus.emisiondof6.com/uhddash/uhd1formula.isml/manifestuhd.mpd
