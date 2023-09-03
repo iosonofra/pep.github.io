@@ -206,7 +206,7 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-057/stream.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-058/stream.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="LIVE SERIE A" tvg-id="",DIRETTA GOL
+#EXTINF:-1 tvg-logo="" group-title="LIVE SERIE A" tvg-id="",DIRETTA TEST
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.gateway.indazn.com/widevine/v1/license?legacyContentId=prod-live1&contentId=124qkbxh2yqvc1pomayce936rw&platform=web&manufacturer=unknown&model=N%2FA&appVersion=9.29.0&uid=2c2665fd-b5d1-4e00-a264-962a84414867&accountStatus=ActivePaid&assetId=gjfz6yuokt0v1iaxo24gha02s&aexp=1693822320000&tid=cb1d6383-4933-4f81-96b8-694976a897dc&uexp=1693767159354&mediaType=live&mediaId=124qkbxh2yqvc1pomayce936rw&hash=a6b92d9f2c45e8d6d3e83e225cc6f95d983e44fe84b179b65257221b2d3ec047
